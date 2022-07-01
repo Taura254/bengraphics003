@@ -1,3 +1,7 @@
+<?php
+$conn = mysqli_connect("localhost", "persons", "30619992", "subscribed");
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
