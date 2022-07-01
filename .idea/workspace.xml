@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="44939081-2bff-432b-9f98-9dd8625d0428" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bengraphics003.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bengraphics003.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bengraphics003.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bengraphics003tech/portfolio-details.php" beforeDir="false" afterPath="$PROJECT_DIR$/bengraphics003tech/portfolio-details.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db_connection.php" beforeDir="false" />
@@ -39,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656697574563</updated>
       <workItem from="1656697583923" duration="561000" />
+      <workItem from="1656704924856" duration="288000" />
     </task>
     <servers />
   </component>
