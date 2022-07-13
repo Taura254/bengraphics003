@@ -10,3 +10,6 @@ After account creation a person login and be able to access the information in t
 The login details are stored in a database to avoid a person from creating a multiple accounts 
 A person also can make an order and the oder details are also stored in a database for future refernce incase of any complain
 After accessing the web application a person can logout
+![Uploading Screenshot (39).png…]()
+![Screenshot (41)](https://user-images.githubusercontent.com/88303129/178717885-86e439e9-7286-46e5-801f-5dc0a9159ddd.png)
+
